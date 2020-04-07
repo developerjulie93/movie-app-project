@@ -1,4 +1,3 @@
 # Movie App
 
-React Js Fundamentals"# Movie-App" 
-"# Movie-App" 
+React Js Fundamentals Course 2019
